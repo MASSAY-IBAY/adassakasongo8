@@ -104,17 +104,17 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 
                 <div style="margin-bottom: 1.5rem;">
                     <h4 style="color: var(--color-primary); margin-bottom: 0.5rem;">📍 Adresse</h4>
-                    <p>123 Rue de la Beauté<br>75000 Paris, France</p>
+                    <p>123 Rue de la Beauté<br>75000 kinshasa, RDC</p>
                 </div>
 
                 <div style="margin-bottom: 1.5rem;">
                     <h4 style="color: var(--color-primary); margin-bottom: 0.5rem;">📞 Téléphone</h4>
-                    <p><a href="tel:+33123456789" style="color: var(--color-text); text-decoration: none;">+33 (0)1 23 45 67 89</a></p>
+                    <p><a href="tel:+243800000000" style="color: var(--color-text); text-decoration: none;">+243982228059</a></p>
                 </div>
 
                 <div style="margin-bottom: 1.5rem;">
                     <h4 style="color: var(--color-primary); margin-bottom: 0.5rem;">✉️ Email</h4>
-                    <p><a href="mailto:contact@adassa.com" style="color: var(--color-text); text-decoration: none;">contact@adassa.com</a></p>
+                    <p><a href="mailto:contact@adassa.com" style="color: var(--color-text); text-decoration: none;">adassakasongo@gmail.com</a></p>
                 </div>
 
                 <div>
