@@ -1,0 +1,8 @@
+{
+    "name": "adassa/ongulaire",
+    "description": "Site web pour Adassa Prothésiste Ongulaire",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    }
+}
